@@ -112,7 +112,6 @@ details:hover {
   border: 1px solid gray;
 }
 
-/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
@@ -124,6 +123,7 @@ details:hover {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
