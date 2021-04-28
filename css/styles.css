@@ -99,7 +99,6 @@
   transition-delay: 0.4s;
 }
 
-/*
 details {
   display: block;
   margin: 0.5em;
@@ -108,7 +107,8 @@ details {
   cursor: pointer;
   border: 1px solid transparent;
 }
-details:hover {
+
+/*details:hover {
   border: 1px solid gray;
 }
 
