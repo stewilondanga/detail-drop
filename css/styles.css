@@ -108,10 +108,11 @@ details {
   border: 1px solid transparent;
 }
 
-/*details:hover {
+details:hover {
   border: 1px solid gray;
 }
 
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
